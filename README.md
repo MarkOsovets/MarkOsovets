@@ -5,6 +5,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 * 📱 You can contact me at (Telegram) [Mark](https://t.me/markosvets)
 * [![codewars](https://www.codewars.com/users/Mark%20Osovets/badges/large)](https://www.codewars.com/users/Mark%20Osovets)
 * My Stepik account [https://stepik.org/users/563199179/profile]
+  ![](https://komarev.com/ghpvc/?username=your-github-username&color=green)
 
 ### Skills
 
