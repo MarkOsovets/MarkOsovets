@@ -3,7 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 * 🌍  I'm based in Brest, Bealrus
 * ✉️  You can contact me at [markosovets@gmail.com](mailto:markosovets@gmail.com)
 * 📱 You can contact me at (Telegram) [Mark](https://t.me/markosvets)
-* [![codewars](https://www.codewars.com/users/username/badges/large)](https://www.codewars.com/users/Mark%20Osovets)
+* [![codewars](https://www.codewars.com/users/Mark%20Osovets/badges/large)](https://www.codewars.com/users/Mark%20Osovets)
 * My Stepik account [https://stepik.org/users/563199179/profile]
 
 ### Skills
