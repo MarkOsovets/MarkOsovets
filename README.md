@@ -1,5 +1,6 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Mark
 ============================================================================================================================
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarkOsovets)](https://github.com/MarkOsovets)
 * 🌍  I'm based in Brest, Bealrus
 * ✉️  You can contact me at [markosovets@gmail.com](mailto:markosovets@gmail.com)
 * 📱 You can contact me at (Telegram) [Mark](https://t.me/markosvets)
