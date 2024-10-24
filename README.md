@@ -5,7 +5,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 * <a href="https://www.bstu.by">BRSTU</a>
 * ✉️  You can contact me at [markosovets@gmail.com](mailto:markosovets@gmail.com)
 * 📱 You can contact me at (Telegram) [Mark](https://t.me/markosvets)
-* [![codewars](https://www.codewars.com/users/Mark%20Osovets/badges/large)](https://www.codewars.com/users/Mark%20Osovets)
+* [![codewars](https://www.codewars.com/users/Osovets/badges/large)](https://www.codewars.com/users/Mark%20Osovets)
 * My Stepik account [https://stepik.org/users/563199179/profile]
   
   ![](https://komarev.com/ghpvc/?username=MarkOsovets)
