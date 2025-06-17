@@ -2,9 +2,8 @@
 ============================================================================================================================
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarkOsovets)](https://github.com/MarkOsovets)
 * 🌍  I'm based in Brest, Bealrus
-* <a href="https://www.bstu.by">BRSTU</a>
 * [![codewars](https://www.codewars.com/users/Osovets/badges/large)](https://www.codewars.com/users/Mark%20Osovets)
-* My Stepik account [https://stepik.org/users/563199179/profile]
+* Stepik account [https://stepik.org/users/563199179/profile]
   
   ![](https://komarev.com/ghpvc/?username=MarkOsovets)
 
