@@ -1,10 +1,8 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Mark
+![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 ============================================================================================================================
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarkOsovets)](https://github.com/MarkOsovets)
 * 🌍  I'm based in Brest, Bealrus
 * <a href="https://www.bstu.by">BRSTU</a>
-* ✉️  You can contact me at [markosovets@gmail.com](mailto:markosovets@gmail.com)
-* 📱 You can contact me at (Telegram) [Mark](https://t.me/markosvets)
 * [![codewars](https://www.codewars.com/users/Osovets/badges/large)](https://www.codewars.com/users/Mark%20Osovets)
 * My Stepik account [https://stepik.org/users/563199179/profile]
   
