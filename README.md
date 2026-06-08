@@ -1,5 +1,4 @@
-* 🌍  I'm based in Brest, Belarus \
-![](https://komarev.com/ghpvc/?username=MarkOsovets)
+* 🌍  I'm based in Brest, Belarus 
 
 ### Skills
 
